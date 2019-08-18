@@ -9,7 +9,7 @@ Simply click on the "tar.gz" or ".zip" icons to download the database. The archi
 ## How to use
 
 All provided database formats work with the open-source mass spectrometry data mining software MZmine 2.
-![MZmine 2](https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/blob/master/src/images/mzmine_logo.png)
+![MZmine 2](https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/master/src/images/mzmine_logo.png)
 
 ## Support or Contact
 

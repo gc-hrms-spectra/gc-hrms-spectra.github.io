@@ -3,5 +3,5 @@ title: [Compounds relevant in Archaeology]
 description: [A GC-HRMS spectra database]
 show_downloads: [true]
 github:
-  zip_url: https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/blob/master/src/databases
-  tar_url: https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/blob/master/src/databases
+  zip_url: https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/raw/master/src/databases/zip/Archaeology_GC_HRMS_Spectra_Databases.zip
+  tar_url: https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/raw/master/src/databases/tar/Archeology_GC_HRMS_Spectra_Databases.tar.gz

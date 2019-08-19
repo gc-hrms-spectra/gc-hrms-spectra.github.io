@@ -4,3 +4,4 @@ description: [A GC-HRMS spectra database]
 show_downloads: [true]
 github:
   zip_url: https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/blob/master/src/databases/Archaeology_GC_HRMS_Spectra_Database.json
+  tar.gz_url: https://github.com/gc-hrms-spectra/gc-hrms-spectra.github.io/blob/master/src/databases/Archaeology_GC_HRMS_Spectra_Database.json

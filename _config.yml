@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: [Compounds relevant in Archaeology]
 description: [A GC-HRMS spectra database]
 show_downloads: [true]

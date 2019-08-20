@@ -13,6 +13,9 @@ The database is free to download and use for everyone, but we request that the p
 All provided database formats work with the open-source mass spectrometry data mining software MZmine 2.
 ![MZmine 2](https://raw.githubusercontent.com/gc-hrms-spectra/gc-hrms-spectra.github.io/master/src/images/mzmine_logo.png)
 
+Perform spectra matching directly for a selected scan.
+![Spectra plot matching](https://raw.githubusercontent.com/gc-hrms-spectra/gc-hrms-spectra.github.io/master/src/images/Matching_Spectra.gif)
+
 ## Support or Contact
 
 If you need any help, please write an issue on the projects GitHub page or send an e-Mail to ansgar.korf@wwu.de

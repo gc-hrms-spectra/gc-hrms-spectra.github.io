@@ -16,6 +16,9 @@ All provided database formats work with the open-source mass spectrometry data m
 Perform spectra matching directly for a selected scan.
 ![Spectra plot matching](https://raw.githubusercontent.com/gc-hrms-spectra/gc-hrms-spectra.github.io/master/src/images/Matching_Spectra.gif)
 
+Perform spectra matching on a feature list.
+![Spectra plot matching](https://raw.githubusercontent.com/gc-hrms-spectra/gc-hrms-spectra.github.io/master/src/images/Matching_Feature.gif)
+
 ## Support or Contact
 
 If you need any help, please write an issue on the projects GitHub page or send an e-Mail to ansgar.korf@wwu.de

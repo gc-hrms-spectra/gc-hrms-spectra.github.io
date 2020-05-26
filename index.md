@@ -1,6 +1,8 @@
 # Welcome
 
-This website provides an open-source gas-chromatography (GC)-high resolution mass spectrometry (HRMS) spectral database of archeologically relevant compounds focusing on lipids. Spectra were collected from standards and selected archaeological samples. More information on the database and an analytical workflow where it can be included can be found in the publication: (bibliographic data to be added).
+This website provides an open-source gas-chromatography (GC)-high resolution mass spectrometry (HRMS) spectral database of archeologically relevant compounds focusing on lipids. Spectra were collected from standards and selected archaeological samples. More information on the database and an analytical workflow where it can be included can be found in the publication:
+
+Korf, A., Hammann, S., Schmid, R., Froning, M., Hayen, H., & Cramp, L. J. (2020). Digging deeper-A new data mining workflow for improved processing and interpretation of high resolution GC-Q-TOF MS data in archaeological research. Scientific Reports, 10(1), 1-9.
 
 ## Download
 

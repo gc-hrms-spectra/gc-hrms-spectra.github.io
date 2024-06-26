@@ -1,6 +1,11 @@
-theme: jekyll-theme-slate
-title: Compounds relevant in Archaeology
+theme: minimal-mistakes-jekyll
+title: Compounds Relevant in Archaeology
 description: A GC-HRMS spectral database
-show_downloads: [false]
+show_downloads: true
 github:
   download_url: https://github.com/gc-hrms-spectra/Database-of-archeological-relevant-compounds/blob/dev/Archaeology_GC_HRMS_Spectra_Database.json
+
+# Custom settings for Minimal Mistakes
+downloads:
+  - url: https://github.com/gc-hrms-spectra/Database-of-archeological-relevant-compounds/blob/dev/Archaeology_GC_HRMS_Spectra_Database.json
+    label: Download GC-HRMS spectral database

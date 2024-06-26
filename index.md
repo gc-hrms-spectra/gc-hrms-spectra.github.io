@@ -6,8 +6,7 @@ Korf, A., Hammann, S., Schmid, R., Froning, M., Hayen, H., & Cramp, L. J. (2020)
 
 ## Download
 You can download the database in JSON format using the link below.
-
-[GC-HRMS spectral database of archeologically relevant compounds](https://github.com/gc-hrms-spectra/Database-of-archeological-relevant-compounds/blob/dev/Archaeology_GC_HRMS_Spectra_Database.json)
+[GC-HRMS spectral database of archeologically relevant compounds](./src/databases/Archaeology_GC_HRMS_Spectra_Database.json)
 ## How to use
 
 The database is free to download and use for everyone, but we request that the publication (Korf, A., Hammann, S., Schmid, R., Froning, M., Hayen, H., & Cramp, L. J. (2020). Digging deeper-A new data mining workflow for improved processing and interpretation of high resolution GC-Q-TOF MS data in archaeological research. Scientific Reports, 10(1), 1-9) is acknowledged. We aim to expand the database in the future. If you have any suggestions for compounds to be included for future versions, please get in touch with us.

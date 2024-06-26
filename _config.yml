@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Compounds relevant in Archaeology
 description: A GC-HRMS spectral database
-show_downloads: [true]
+show_downloads: [false]
 github:
   download_url: https://github.com/gc-hrms-spectra/Database-of-archeological-relevant-compounds/blob/dev/Archaeology_GC_HRMS_Spectra_Database.json
